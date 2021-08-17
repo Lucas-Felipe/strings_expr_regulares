@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Projeto_string_exp_regulares/1.0.0": {
+        "runtime": {
+          "Projeto_string_exp_regulares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto_string_exp_regulares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

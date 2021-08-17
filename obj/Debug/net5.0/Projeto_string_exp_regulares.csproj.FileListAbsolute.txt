@@ -1,0 +1,16 @@
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\bin\Debug\net5.0\Projeto_string_exp_regulares.exe
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\bin\Debug\net5.0\Projeto_string_exp_regulares.deps.json
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\bin\Debug\net5.0\Projeto_string_exp_regulares.runtimeconfig.json
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\bin\Debug\net5.0\Projeto_string_exp_regulares.runtimeconfig.dev.json
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\bin\Debug\net5.0\Projeto_string_exp_regulares.dll
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\bin\Debug\net5.0\ref\Projeto_string_exp_regulares.dll
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\bin\Debug\net5.0\Projeto_string_exp_regulares.pdb
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\obj\Debug\net5.0\Projeto_string_exp_regulares.csproj.AssemblyReference.cache
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\obj\Debug\net5.0\Projeto_string_exp_regulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\obj\Debug\net5.0\Projeto_string_exp_regulares.AssemblyInfoInputs.cache
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\obj\Debug\net5.0\Projeto_string_exp_regulares.AssemblyInfo.cs
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\obj\Debug\net5.0\Projeto_string_exp_regulares.csproj.CoreCompileInputs.cache
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\obj\Debug\net5.0\Projeto_string_exp_regulares.dll
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\obj\Debug\net5.0\ref\Projeto_string_exp_regulares.dll
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\obj\Debug\net5.0\Projeto_string_exp_regulares.pdb
+C:\Users\lucas.felipe\Downloads\Projeto_string_exp_regulares\obj\Debug\net5.0\Projeto_string_exp_regulares.genruntimeconfig.cache
